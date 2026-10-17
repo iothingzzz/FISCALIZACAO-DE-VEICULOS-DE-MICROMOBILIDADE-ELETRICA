@@ -1,5 +1,3 @@
-# FISCALIZACAO-DE-VEICULOS-DE-MICROMOBILIDADE-ELETRICA
-
 Fiscalização Inteligente de Veículos de Micromobilidade Elétrica
 Proposta de Política Pública para Identificação Eletrônica e Fiscalização Remota de Bicicletas Elétricas, Patinetes Elétricos e Demais Equipamentos de Mobilidade Individual Autopropelidos
 Resumo Executivo
@@ -158,10 +156,11 @@ A presente proposta busca utilizar a infraestrutura tecnológica já existente n
 
 Dessa forma, sugere-se a realização de estudos técnicos, jurídicos e econômicos destinados a avaliar a viabilidade de implementação de um Programa Municipal de Identificação Eletrônica e Fiscalização Inteligente de Veículos de Micromobilidade Elétrica.
 
-Autor: André Luiz Cunha
+Autor: Andre Luiz Cunha
 Cidade/UF: São Paulo SP
 
 Contato: iothingzzz@gmail.com
+
 Data: 17/10/2026
 Licença
 
