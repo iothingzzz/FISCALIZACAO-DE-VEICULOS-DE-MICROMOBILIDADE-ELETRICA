@@ -1,3 +1,5 @@
+Este projeto está em fase de concepção.
+
 Fiscalização Inteligente de Veículos de Micromobilidade Elétrica
 Proposta de Política Pública para Identificação Eletrônica e Fiscalização Remota de Bicicletas Elétricas, Patinetes Elétricos e Demais Equipamentos de Mobilidade Individual Autopropelidos
 Resumo Executivo
